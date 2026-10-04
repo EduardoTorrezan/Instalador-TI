@@ -1,3 +1,5 @@
-Instaladores/
-Logs/
+Instaladores/*
+!Instaladores/.gitkeep
+Logs/*
+!Logs/.gitkeep
 *.exe
